@@ -41,4 +41,4 @@ webpmux -version
 
 ## DONASI NYA BONGG 😁
 - [Saweria](http://bit.ly/3K8Yfev)
-- [WEB SAYA] (https://opaper.app/GONDOL.GAMING.ID)
+- [WEB SAYA](https://opaper.app/GONDOL.GAMING.ID)
