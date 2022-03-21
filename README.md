@@ -6,7 +6,7 @@
 - [GERUP BOTZ](https://chat.whatsapp.com/IvLU7d0FUOKKzi83oU4ppN)
 - [GERUP TOP UP GAME](https://chat.whatsapp.com/HqNcbYai2Ml6diptRVs5Lo)
 ##LIST HARGA TOP UP
-- [LIST](*NEW LIST* _MLBB RAKUN SHOP_
+- *NEW LIST* _MLBB RAKUN SHOP_
 =============================
 ⏳ PROSES 1 - 30 MENIT/SESUAI ANTRIAN ( MAX PROSES 24 JAM KETIKA EVENT )
 ╔᳄𓄂ʀᴀᴋᴜɴ ꜱʜᴏᴘ࿑
@@ -33,4 +33,4 @@
 ╚ ⏰ (Close Sampai Ngantuk)
 =======================
 ©Creator By ᴹᴿ᭄ RakunOfcོ ×፝֟͜×
-=======================)
+=======================
