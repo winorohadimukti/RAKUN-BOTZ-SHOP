@@ -6,32 +6,6 @@
 * [Image Magic](https://imagemagick.org/script/download.php) ( for nulis command, Centang Kolom 1,2,3,5,6)
 * Any text editor
 
-# Instalasi
-## SEKEN DULU (STEP 1)
-```bash
-git clone https://github.com/winorohadimukti/babaybotku.git
-cd babaybotku
-npm install
-npm start
-```
-## SESUDAH DI SEKEN (STEP 2)
-```bash
-git clone https://github.com/winorohadimukti/babaybotku.git
-cd babaybotku
-npm install -g pm2
-pm2 start main.js
-pm2 save
-pm2 monit
-```
-## FOR TERMUX
-```bash
-termux-setup-storage
-apt update && apt upgrade
-pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/winorohadimukti/babaybotku.git
-cd babaybotku
-npm install
-npm start
 ```
 
 ## Installing the FFmpeg for Windows
@@ -65,6 +39,6 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 webpmux -version
 ```
 
-## Donate
+## DONASI NYA BONGG 😁
 - [Saweria](http://bit.ly/3K8Yfev)
-- 
+- [WEB SAYA] (https://opaper.app/GONDOL.GAMING.ID)
