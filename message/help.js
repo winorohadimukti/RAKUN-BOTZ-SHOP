@@ -1,8 +1,5 @@
 exports.menu = (ucapan, pushname, mundur, ownerName, botName, tanggal, jam, runtime, isOwner, isPremium, sisalimit, limitCount, sisaGlimit, gcount, expired, prefix) => {
     return `${ucapan} ${pushname}
-    
-Hitung Mundur Bulan Ramadhan
-${mundur}
 
 👑 Creator : ${ownerName}
 🤖 Bot Name : ${botName}
@@ -21,16 +18,18 @@ ${runtime}
 
 *LIST MENU BOT*
 
-❏ ${prefix}menusimple
-❏ ${prefix}menusticker
-❏ ${prefix}menugroup
-❏ ${prefix}menusistem
-❏ ${prefix}menustore
-❏ ${prefix}menudownload
-❏ ${prefix}menugame
-❏ ${prefix}menurandom
-❏ ${prefix}menusearch
-❏ ${prefix}menuowner
+╔᳄𓄂ʀᴀᴋᴜɴ ꜱʜᴏᴘ࿑
+╠⌦ ${prefix}menusimple
+╠⌦ ${prefix}menusticker
+╠⌦ ${prefix}menugroup
+╠⌦ ${prefix}menusistem
+╠⌦ ${prefix}menustore
+╠⌦ ${prefix}menudownload
+╠⌦ ${prefix}menugame
+╠⌦ ${prefix}menurandom
+╠⌦ ${prefix}menusearch
+╠⌦ ${prefix}menuowner
+╚ ©Creator By ᴹᴿ᭄ RakunOfcོ ×፝֟͜×
 `
 }
 
