@@ -8,7 +8,7 @@
 ##LIST HARGA TOP UP
 - *NEW LIST* _MLBB RAKUN SHOP_
 =============================
-⏳ PROSES 1 - 30 MENIT/SESUAI ANTRIAN ( MAX PROSES 24 JAM KETIKA EVENT )
+⏳ PROSES 1 - 30
 ╔᳄𓄂ʀᴀᴋᴜɴ ꜱʜᴏᴘ࿑
 ╠⌦86 💎 Rp19,740 
 ╠⌦172 💎 Rp39,000
